@@ -1,4 +1,4 @@
-/*
+ /*
 Clase 23 - Condicionales
 Vídeo: https://youtu.be/1glVfFxj8a4?t=7277
 */
